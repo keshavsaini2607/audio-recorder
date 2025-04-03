@@ -1,7 +1,6 @@
 import { AudioRecorder } from "./components";
 import useAudioRecorder from "./context/AudioRecorderState";
-import { Toaster } from "@/components/ui/sonner";
-import { toast } from "sonner"
+import { toast, Toaster } from "sonner"
 
 
 function App() {

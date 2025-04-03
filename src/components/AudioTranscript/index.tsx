@@ -1,5 +1,3 @@
-import React from "react";
-
 import { Textarea } from "../ui/textarea";
 import useAudioRecorder from "../../context/AudioRecorderState";
 
